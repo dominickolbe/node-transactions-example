@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "user_id": 1,
+    "amount": 5,
+    "date": "2020-10-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "amount": 10,
+    "date": "2020-09-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 3,
+    "user_id": 1,
+    "amount": 10,
+    "date": "2020-08-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 2
+  },
+  {
+    "id": 1,
+    "user_id": 2,
+    "amount": 10,
+    "date": "2020-10-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 2,
+    "user_id": 2,
+    "amount": 10,
+    "date": "2020-09-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 3,
+    "user_id": 2,
+    "amount": 10,
+    "date": "2020-08-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 2
+  },
+  {
+    "id": 1,
+    "user_id": 3,
+    "amount": 10,
+    "date": "2020-10-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 2,
+    "user_id": 3,
+    "amount": 10,
+    "date": "2020-09-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 1
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "amount": 10,
+    "date": "2020-08-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 2
+  },
+  {
+    "id": 3,
+    "user_id": 3,
+    "amount": 10,
+    "date": "2020-08-15T01:16:58.230Z",
+    "description": "description",
+    "merchant_id": 3
+  }
+]
